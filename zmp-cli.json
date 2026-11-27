@@ -1,0 +1,8 @@
+{
+  "name": "Workly",
+  "framework": "react-typescript",
+  "cssPreProcessor": "none",
+  "includeTailwind": false,
+  "newProject": false,
+  "template": "single-view"
+}

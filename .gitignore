@@ -1,0 +1,8 @@
+node_modules
+.vite-cache/
+www/
+.env
+.env.local
+.env.*.local
+*.tsbuildinfo
+/artifacts/
